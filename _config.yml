@@ -1,12 +1,12 @@
 markdown: rdiscount
-permalink: /posts/:title
+permalink: /left/posts/:title
 rdiscount:
   extensions: [smart]
 
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
+name: Katie Ball
 url: http://roachhd.github.io/left
-description: A fantastic blog that is fantastic.
+description: A fantastic List that is fantastic.
 twitter: mektball
